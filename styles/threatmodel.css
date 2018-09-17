@@ -3,7 +3,7 @@ html {
 }
 body {
 
-    background: url('./circuit.svg');
+    background: url('../images/circuit.svg');
     background-size: cover;
     background-repeat: no-repeat;
 }
