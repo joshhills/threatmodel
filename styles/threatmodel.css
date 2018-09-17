@@ -1,0 +1,19 @@
+html {
+    background-image: linear-gradient(#eee 10%, #fff);
+}
+body {
+
+    background: url('./circuit.svg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+#nav {
+    padding: 2rem;
+}
+.nav.nav-tabs {
+    margin-bottom: 1rem;
+}
+.formio-component-submit {
+    margin-top: 1rem;
+    margin-bottom: 0;
+}
